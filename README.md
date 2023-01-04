@@ -9,15 +9,15 @@ Inspirado em: https://medium.com/aela/okr-defina-acompanhe-e-alcance-seus-objeti
 
 Objetivo
 
-		- Onde queremos chegar?
+	- Onde queremos chegar?
 
 Resultado Chave
 
-		- Como saberemos que estamos chegando lá?
+	- Como saberemos que estamos chegando lá?
 
 Inicitiva
 
-		- Como chegar la?
+	- Como chegar la?
 
 
 ## Regras
